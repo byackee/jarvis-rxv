@@ -58,7 +58,7 @@ else:
 			
 
 
-		data = simplejson.dumps({"status": code})
+		data = simplejson.dumps(code)
 		print data
 	
 		
