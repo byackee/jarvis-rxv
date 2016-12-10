@@ -21,7 +21,7 @@ Pour le moment seul les commandes suivantes sont dispo:
 ## Usage
 ```
 You: monte le son
-Jarvis: ...
+Jarvis: son monté
 ```
 
 ## Authors
