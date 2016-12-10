@@ -1,0 +1,4 @@
+*monte*son*== say "$(python ./plugins/jarvis-rxv/rxvplugin.py 4_"$jv_pg_rv_ip"_"$jv_pg_rv_modele")"
+*baisse*son*== say "$(python ./plugins/jarvis-rxv/rxvplugin.py 5_"$jv_pg_rv_ip"_"$jv_pg_rv_modele")"
+*allume*ampl*== say "$(python ./plugins/jarvis-rxv/rxvplugin.py 6_"$jv_pg_rv_ip"_"$jv_pg_rv_modele")"
+*eteint*ampl*== say "$(python ./plugins/jarvis-rxv/rxvplugin.py 0_"$jv_pg_rv_ip"_"$jv_pg_rv_modele")"
